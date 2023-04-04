@@ -1,0 +1,1 @@
+# JS_basics_extract-array-elements
